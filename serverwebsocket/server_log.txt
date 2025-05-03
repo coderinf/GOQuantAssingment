@@ -1,0 +1,19 @@
+[2025-05-03 19:29:26] WebSocket server running on port 8080...
+[2025-05-03 19:29:35] Client connected: 0 from IP: 127.0.0.1
+[2025-05-03 19:29:35] Total connected clients: 1
+[2025-05-03 19:29:35] Client subscribed to: BNB
+[2025-05-03 19:29:37] Client connected: 1 from IP: 127.0.0.1
+[2025-05-03 19:29:37] Total connected clients: 2
+[2025-05-03 19:29:37] Client subscribed to: XRP
+[2025-05-03 19:29:39] Client connected: 2 from IP: 127.0.0.1
+[2025-05-03 19:29:39] Total connected clients: 3
+[2025-05-03 19:29:39] Client subscribed to: SOL
+[2025-05-03 19:29:44] Client sent disconnect message: 1
+[2025-05-03 19:29:44] Client disconnected: 1 from IP: 127.0.0.1
+[2025-05-03 19:29:44] Total connected clients: 2
+[2025-05-03 19:29:47] Client sent disconnect message: 2
+[2025-05-03 19:29:47] Client disconnected: 2 from IP: 127.0.0.1
+[2025-05-03 19:29:47] Total connected clients: 1
+[2025-05-03 19:29:50] Client sent disconnect message: 0
+[2025-05-03 19:29:50] Client disconnected: 0 from IP: 127.0.0.1
+[2025-05-03 19:29:50] Total connected clients: 0
